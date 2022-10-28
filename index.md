@@ -2,7 +2,7 @@ Brick Homepage
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>刘川东</h1>
+      <h1>刘川东 (Liu Chuandong)</h1>
       <p><b>硕士研究生</b></p>
       <p><b>重庆邮电大学</b></p>
       <p><b>邮箱：liuhanbrick@gmail.com</b></p>
