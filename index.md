@@ -3,10 +3,10 @@ Brick Homepage
   <tr>
     <td width="75%">
       <h1>刘川东 (Liu Chuandong)</h1>
-      <p><b>硕士研究生 (MS student)</b></p>
-      <p><b>重庆邮电大学 (CQUPT)</b></p>
+      <p><b>博士研究生 (Ph.D student)</b></p>
+      <p><b>武汉大学 (CQUPT)</b></p>
       <p><b>邮箱：liuhanbrick@gmail.com</b></p>
-      <p><b>地址：重庆市南岸区重庆邮电大学</b></p>
+      <p><b>地址：湖北省武汉市武汉大学</b></p>
     </td>
     <td width="25%">
       <img src="/lcd.png" width="100%">  
