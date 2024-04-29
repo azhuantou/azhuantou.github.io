@@ -14,6 +14,7 @@ Brick Homepage
   </tr>
 </table>
 
-### 研究方向：
+### 研究方向 ([Google Scholar](https://scholar.google.com/citations?user=3PLs3zEAAAAJ&hl=zh-CN))：
 #### 点云识别 (point cloud)
 #### 点云目标检测 (object detection)
+
