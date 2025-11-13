@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/mixgs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeurIPS 2025**] [Exploring Scene Affinity for Semi-Supervised LiDAR Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Exploring_Scene_Affinity_for_Semi-Supervised_LiDAR_Semantic_Segmentation_CVPR_2025_paper.pdf) \\
+[**NeurIPS 2025**] [Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting](https://openreview.net/pdf/9bfa6bf2ace91ae286d16faa6adba7a837f07884.pdf) \\
 **Chuandong Liu**, Huijiao Wang, Lei Yu, Gui-Song Xia \\
 [[Project page]](https://mixgs.github.io/)
 [[Paper]](https://arxiv.org/abs/2505.23280)
